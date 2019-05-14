@@ -1,0 +1,41 @@
+body{
+    background: lightblue;
+    font-size: 15px;
+    
+}
+h1{
+    color: hotpink;
+    font-size: 20;
+    font-family: sans-serif;
+}
+
+p:hover{
+    color: yellow;
+}
+
+.swag{
+    color: green;    
+}
+
+#wrapper{
+    width: 705px;
+    margin: auto;
+}
+
+#Banner{
+    width: 50%;
+    border: 1px solid #000000;
+    float: left;
+    
+}
+#other{
+    clear: left;
+    width: 50%;
+    border: 1px solid #000000;
+    float: right;
+    
+}
+
+.wrapper{
+    width: wi;
+}
